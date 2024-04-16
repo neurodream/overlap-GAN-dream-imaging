@@ -1,7 +1,7 @@
 # overlap-GAN-dream-imaging
 **is (fuzzy) video readout from EEG sensors feasible?**   
 if there is a way to have some spatial resolution from EEG in the visual field (via beamforming maybe), then maybe a video’s semantics might be decipherable from very few locations of overlapping greyscales  
-![image](https://github.com/neurodream/overlap-GAN-dream-imaging/assets/117816806/95ee56a7-96c8-4c64-857f-b78709f66048)
+![](https://github.com/neurodream/overlap-GAN-dream-imaging/assets/117816806/95ee56a7-96c8-4c64-857f-b78709f66048|width=100)
 
 ---
 
