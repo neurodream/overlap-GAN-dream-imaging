@@ -1,7 +1,7 @@
 # overlap-GAN-dream-imaging
 **is (fuzzy) video readout from EEG sensors feasible?**   
 
-![image](https://github.com/neurodream/overlap-GAN-dream-imaging/assets/117816806/995a4bf5-a095-493d-9243-10297478cb1f)
+![image](https://github.com/neurodream/overlap-GAN-dream-imaging/assets/117816806/95ee56a7-96c8-4c64-857f-b78709f66048)
 
 ---
 
